@@ -1,0 +1,9 @@
+name: NickPlugin
+version: 1
+author: Zwuiix
+api: 3.0.0
+main: Zwuiix\Main
+commands:
+  nick:
+    description: Permet de changer de pseudonyme.
+    permission: nick.cmd
